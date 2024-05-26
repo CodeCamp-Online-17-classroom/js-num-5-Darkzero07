@@ -1,1 +1,7 @@
-// write code here
+let i = 0;
+while (i != 10) {
+    // console.log(i)
+  i += 0.2;
+}
+
+// ทำงานได้ปกติแต่ไม่สามารถหยุดลูปได้
